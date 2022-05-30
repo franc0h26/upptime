@@ -40,19 +40,19 @@
     "url": "https://muniparacas.gob.pe/",
     "icon": "https://favicons.githubusercontent.com/muniparacas.gob.pe",
     "slug": "municipalidad-de-paracas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4584,
-    "timeDay": 13357,
-    "timeWeek": 5501,
-    "timeMonth": 4584,
-    "timeYear": 4584,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 4803,
+    "timeDay": 11526,
+    "timeWeek": 5763,
+    "timeMonth": 4803,
+    "timeYear": 4803,
     "dailyMinutesDown": {
-      "2022-05-30": 0
+      "2022-05-30": 20
     }
   },
   {
