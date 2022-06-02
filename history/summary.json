@@ -40,7 +40,7 @@
     "url": "https://muniparacas.gob.pe/",
     "icon": "https://favicons.githubusercontent.com/muniparacas.gob.pe",
     "slug": "municipalidad-de-paracas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
@@ -52,6 +52,7 @@
     "timeMonth": 4493,
     "timeYear": 4493,
     "dailyMinutesDown": {
+      "2022-06-02": 0,
       "2022-05-30": 20
     }
   },
